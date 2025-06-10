@@ -1,6 +1,7 @@
 # E-Commerce Back End
-
 ## Description
+My eCommerce Back End is a RESTful API built using Node.js, Express.js, and MySQL, designed to power the backend of an online store. It leverages Sequelize to interact with the MySQL database through object-oriented JavaScript models. This app follows an MVC architecture, separating concerns across routes, models, and controllers. The objective of this project was to showcase the integration of a relational database with modern JavaScript server environments, highlighting the real-world backend development patterns such as API routing, data modeling, and asynchronous request handling. 
+
 
 My motivation behind this project was to create a clean backend to handle an E-Commerce back end.
 
